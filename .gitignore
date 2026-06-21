@@ -1,0 +1,23 @@
+# --- Backend (Spring Boot) ---
+backend/movies-app/target/
+backend/movies-app/.idea/
+backend/movies-app/.settings/
+backend/movies-app/.classpath
+backend/movies-app/.project
+backend/movies-app/.sts4-cache/
+backend/movies-app/data.mv.db
+backend/movies-app/data.trace.db
+backend/movies-app/mvnw
+backend/movies-app/mvnw.cmd
+
+# --- Frontend (React + Vite) ---
+frontend/Firstproject/node_modules/
+frontend/Firstproject/dist/
+frontend/Firstproject/.vite/
+frontend/Firstproject/.env
+frontend/Firstproject/.env.local
+frontend/Firstproject/.env.development
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
