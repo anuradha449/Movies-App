@@ -1,12 +1,4 @@
-Here is a **complete, professional `README.md` file** specifically for your **Movies App**. 
 
-Since you are building a full-stack Movies App with a Spring Boot backend and a React frontend, I have written this exactly for that setup. 
-
-**Copy and paste the text below** into a new file named `README.md` inside the root of your `Movies App` folder (right next to your `backend` and `frontend` folders).
-
----
-
-```markdown
 # 🎬 Movies App
 
 A full-stack web application for browsing, adding, and managing movies. Built with **Spring Boot** for the backend and **React + Vite** for the frontend.
